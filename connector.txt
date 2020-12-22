@@ -1,0 +1,30 @@
+http://localhost:8080/connector-0.0.1-SNAPSHOT/v1/adapters/sharepoint/transfer
+
+{
+"READER": {
+"type": "SHAREPOINT",
+"sub_type": "ALL",
+"file_names": "FacadeFECode.zip",
+"download_folder_path": "temp/",
+"sharepoint_folder_path": "ADM/Prism/Repository",
+"site_name": "TestFoldercreation2",
+"tenant_id": "02aa9fc1-18bc-4798-a020-e01c854dd434",
+"tenant_name": "lntinfotech.sharepoint.com",
+"client_id": "2f0a865d-9f1b-45ea-a464-f212004c5330",
+"client_secret": "K4fn~4rfY8z_5.J~4jcp-3Yjb9GY-HY_X~",
+"title": "Test Folder creation"
+},
+"WRITER": {
+"type": "SHAREPOINT",
+"sub_type": "ALL",
+"file_names": "FacadeFECode.zip",
+"download_folder_path": "temp/",
+"sharepoint_folder_path": "ADM/Prism/Knowledge Nugget",
+"site_name": "TestFoldercreation2",
+"tenant_id": "02aa9fc1-18bc-4798-a020-e01c854dd434",
+"tenant_name": "lntinfotech.sharepoint.com",
+"client_id": "2f0a865d-9f1b-45ea-a464-f212004c5330",
+"client_secret": "K4fn~4rfY8z_5.J~4jcp-3Yjb9GY-HY_X~",
+"title": "Test Folder creation"
+}
+}
